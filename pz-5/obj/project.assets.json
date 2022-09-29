@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shmidt.ag1701\\Source\\Repos\\2pk2_Shmidt\\pz-5\\pz-5.csproj",
-      "projectName": "pz-5",
-      "projectPath": "C:\\Users\\shmidt.ag1701\\Source\\Repos\\2pk2_Shmidt\\pz-5\\pz-5.csproj",
+      "projectUniqueName": "C:\\Users\\shmidt.ag1701\\Source\\Repos\\2pk2_Shmidt\\pz-5\\Pz_5.csproj",
+      "projectName": "Pz_5",
+      "projectPath": "C:\\Users\\shmidt.ag1701\\Source\\Repos\\2pk2_Shmidt\\pz-5\\Pz_5.csproj",
       "packagesPath": "C:\\Users\\shmidt.ag1701\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\shmidt.ag1701\\Source\\Repos\\2pk2_Shmidt\\pz-5\\obj\\",
       "projectStyle": "PackageReference",

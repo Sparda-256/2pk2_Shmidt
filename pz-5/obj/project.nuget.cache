@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k+MCuEEsWWE5KOSScxTUINVYnwjq8WLQ60tVPm9jFpikgZ9j7C01FNd3GSY4XpNc5ku39brAX4drS4eiQYiCkg==",
+  "dgSpecHash": "nK5oKt9WP9trhGx8dTpcfyev3NZaK3cnJygxQ8jWvDjNLS1oBsciwiiy5ljLQfEFkCGdCghxk1I11CfuUz+EXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shmidt.ag1701\\Source\\Repos\\2pk2_Shmidt\\pz-5\\pz-5.csproj",
+  "projectFilePath": "C:\\Users\\shmidt.ag1701\\Source\\Repos\\2pk2_Shmidt\\pz-5\\Pz_5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shmidt.ag1701\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
     "C:\\Users\\shmidt.ag1701\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
