@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pz-5", "pz-5\pz-5.csproj", "{C12414AF-3E75-4DC8-99B7-4F4C5C9094BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pz_5", "pz-5\Pz_5.csproj", "{C12414AF-3E75-4DC8-99B7-4F4C5C9094BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pz_6", "Pz_6\Pz_6.csproj", "{45E753E9-ECCD-4F43-9F21-7E4A56110C53}"
 EndProject
