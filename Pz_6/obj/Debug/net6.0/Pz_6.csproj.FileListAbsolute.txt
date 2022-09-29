@@ -1,0 +1,15 @@
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\bin\Debug\net6.0\Pz_6.exe
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\bin\Debug\net6.0\Pz_6.deps.json
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\bin\Debug\net6.0\Pz_6.runtimeconfig.json
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\bin\Debug\net6.0\Pz_6.dll
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\bin\Debug\net6.0\Pz_6.pdb
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\obj\Debug\net6.0\Pz_6.csproj.AssemblyReference.cache
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\obj\Debug\net6.0\Pz_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\obj\Debug\net6.0\Pz_6.AssemblyInfoInputs.cache
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\obj\Debug\net6.0\Pz_6.AssemblyInfo.cs
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\obj\Debug\net6.0\Pz_6.csproj.CoreCompileInputs.cache
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\obj\Debug\net6.0\Pz_6.dll
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\obj\Debug\net6.0\refint\Pz_6.dll
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\obj\Debug\net6.0\Pz_6.pdb
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\obj\Debug\net6.0\Pz_6.genruntimeconfig.cache
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\Pz_6\obj\Debug\net6.0\ref\Pz_6.dll

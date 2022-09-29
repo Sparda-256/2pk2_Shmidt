@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "P+O9TmK2Y295KfvraYriLzuxf+UMmjRdELWH80DXcEugpfTxsVetTxKfkjNuGYL2nJNxocucaWYKttCoEe07wA==",
+  "dgSpecHash": "k+MCuEEsWWE5KOSScxTUINVYnwjq8WLQ60tVPm9jFpikgZ9j7C01FNd3GSY4XpNc5ku39brAX4drS4eiQYiCkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shmidt.ag1701\\source\\repos\\2pk2_Shmidt\\pz-5\\pz-5.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\shmidt.ag1701\\Source\\Repos\\2pk2_Shmidt\\pz-5\\pz-5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shmidt.ag1701\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512",
+    "C:\\Users\\shmidt.ag1701\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\shmidt.ag1701\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\shmidt.ag1701\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

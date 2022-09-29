@@ -1,0 +1,14 @@
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\bin\Debug\netcoreapp3.1\pz-5.exe
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\bin\Debug\netcoreapp3.1\pz-5.deps.json
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\bin\Debug\netcoreapp3.1\pz-5.runtimeconfig.json
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\bin\Debug\netcoreapp3.1\pz-5.runtimeconfig.dev.json
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\bin\Debug\netcoreapp3.1\pz-5.dll
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\bin\Debug\netcoreapp3.1\pz-5.pdb
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\obj\Debug\netcoreapp3.1\pz-5.csproj.AssemblyReference.cache
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\obj\Debug\netcoreapp3.1\pz-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\obj\Debug\netcoreapp3.1\pz-5.AssemblyInfoInputs.cache
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\obj\Debug\netcoreapp3.1\pz-5.AssemblyInfo.cs
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\obj\Debug\netcoreapp3.1\pz-5.csproj.CoreCompileInputs.cache
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\obj\Debug\netcoreapp3.1\pz-5.dll
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\obj\Debug\netcoreapp3.1\pz-5.pdb
+C:\Users\shmidt.ag1701\Source\Repos\2pk2_Shmidt\pz-5\obj\Debug\netcoreapp3.1\pz-5.genruntimeconfig.cache
